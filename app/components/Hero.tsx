@@ -27,7 +27,7 @@ export default function Hero() {
         style={{
           position: "absolute",
           inset: 0,
-          background: "rgba(10, 9, 7, 0.72)",
+          background: "rgba(10, 9, 7, 0.35)",
           zIndex: 0,
         }}
       />

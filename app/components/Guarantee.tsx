@@ -40,7 +40,8 @@ export default function Guarantee() {
           Our guarantee
         </div>
         <p style={{ color: "var(--text-muted)", fontSize: "0.95rem", maxWidth: 560 }}>
-          We guarantee that you will end the session as a confident non-drinker. If not, we will refund you in full.
+          We guarantee that you will finish the counselling session as a confident non-drinker. 
+          If for some reason you remain unconvinced, we will refund you in full.
         </p>
       </div>
     </div>

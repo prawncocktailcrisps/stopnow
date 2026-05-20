@@ -1,6 +1,5 @@
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
-import Marquee from "./components/Marquee";
 import HowItWorks from "./components/HowItWorks";
 import Guarantee from "./components/Guarantee";
 import Pricing from "./components/Pricing";
@@ -14,7 +13,6 @@ export default function Home() {
       <Nav />
       <main>
         <Hero />
-        <Marquee />
         <FadeIn>
           <HowItWorks />
         </FadeIn>

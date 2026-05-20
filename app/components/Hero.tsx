@@ -1,13 +1,6 @@
 import Link from "next/link";
 
 export default function Hero() {
-  const stats = [
-    { num: "½", label: "Day session" },
-    { num: "1:1", label: "Video call" },
-    { num: "100%", label: "Guaranteed" },
-    { num: "£249", label: "50% off now" },
-  ];
-
   return (
     <section
       style={{
@@ -105,63 +98,48 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Right — stat grid */}
+      {/* Right — client quote */}
       <div
         style={{
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
           padding: "3rem",
-          background: "radial-gradient(ellipse at 60% 40%, rgba(196,169,107,0.06) 0%, transparent 70%)",
           position: "relative",
           zIndex: 1,
         }}
       >
-        <div
+        <blockquote
           style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "1px",
-            background: "rgba(232,228,216,0.1)",
-            border: "0.5px solid rgba(232,228,216,0.1)",
-            maxWidth: 360,
-            width: "100%",
+            maxWidth: 380,
+            textAlign: "center",
           }}
         >
-          {stats.map((s) => (
-            <div
-              key={s.label}
-              style={{
-                background: "var(--bg)",
-                padding: "2.25rem 1.75rem",
-                display: "flex",
-                flexDirection: "column",
-                gap: "0.5rem",
-              }}
-            >
-              <span
-                style={{
-                  fontFamily: "var(--font-playfair)",
-                  fontSize: "2.6rem",
-                  color: "var(--gold)",
-                  lineHeight: 1,
-                }}
-              >
-                {s.num}
-              </span>
-              <span
-                style={{
-                  fontSize: "0.72rem",
-                  color: "rgba(232,228,216,0.45)",
-                  letterSpacing: "0.1em",
-                  textTransform: "uppercase",
-                }}
-              >
-                {s.label}
-              </span>
-            </div>
-          ))}
-        </div>
+          <p
+            style={{
+              fontFamily: "var(--font-playfair)",
+              fontSize: "clamp(1.4rem, 2.2vw, 2rem)",
+              fontStyle: "italic",
+              color: "#ffffff",
+              lineHeight: 1.5,
+              marginBottom: "1.5rem",
+              textShadow: "0 2px 12px rgba(0,0,0,0.4)",
+            }}
+          >
+            "The session was a revelation. I haven't drunk alcohol since then, and I don't miss it at all!"
+          </p>
+          <cite
+            style={{
+              fontSize: "0.75rem",
+              letterSpacing: "0.15em",
+              textTransform: "uppercase",
+              color: "rgba(255,255,255,0.6)",
+              fontStyle: "normal",
+            }}
+          >
+            — Client
+          </cite>
+        </blockquote>
       </div>
     </section>
   );

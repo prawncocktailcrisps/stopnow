@@ -1,23 +1,23 @@
 const steps = [
   {
-    num: "01",
+    num: "Intro",
     title: "Your story",
-    body: "Your counsellor begins by understanding your specific drinking habits, circumstances, and goals — no judgement.",
+    body: "Your counsellor will listen to your story to understand your specific drinking habits and personal circumstances — no judgement.",
   },
   {
-    num: "02",
+    num: "The story",
     title: "The truth about alcohol",
-    body: "Together you'll explore the myths the alcohol industry has embedded in our culture — and dismantle them one by one.",
+    body: "Together you'll explore the myths and false beliefs that cause drinkers to consume alcohol — and dismantle them one by one.",
   },
   {
-    num: "03",
+    num: "New thinking",
     title: "Belief change",
-    body: "Your counsellor works to replace the desire to drink with a genuine, lasting understanding of why alcohol harms you.",
+    body: "As the session progresses you will replace the desire to drink with a genuine, lasting understanding of the detrimental effect of alcohol.",
   },
   {
-    num: "04",
+    num: "Conclusion",
     title: "Confident non-drinker",
-    body: "By the end of the session you feel no sense of loss — only clarity, freedom, and the confidence to live without alcohol.",
+    body: "By the end of the session you will feel free of the desire to drink, and the confidence to live without alcohol.",
   },
 ];
 

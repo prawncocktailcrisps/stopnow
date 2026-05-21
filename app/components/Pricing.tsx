@@ -1,12 +1,12 @@
 const features = [
-  "Half-day one-to-one video session",
-  "Personally tailored to your circumstances",
-  "Full money-back guarantee",
-  "Written session summary sent by email",
-  "Available globally, most time zones",
-  "100% confidential",
+  "We offer a half-day one-to-one counselling session conducted online via video",
+  "The session is tailored to your circumstances and specific to you",
+  "We offer a full money-back guarantee if you do not end the session as a confident non-drinker",
+  "Our follow-up includes a summary of our beliefs, and the key points from the session by email",
+  "We are a global service and can adjust our timing to suit most time zones",
+  "We are 100% confidential and require no personal details from you",
   "Sessions conducted in English",
-  "Pay in GBP, USD or EUR via PayPal",
+  "We use Paypal for our invoices. Pay in any currency",
 ];
 
 export default function Pricing() {

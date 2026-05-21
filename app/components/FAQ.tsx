@@ -53,7 +53,7 @@ export default function FAQ() {
           marginBottom: "1rem",
         }}
       >
-        Questions
+        FAQ
       </p>
       <h2
         style={{
@@ -63,7 +63,7 @@ export default function FAQ() {
           marginBottom: "2.5rem",
         }}
       >
-        Frequently asked
+        Frequently asked questions
       </h2>
 
       {faqs.map((faq, i) => (

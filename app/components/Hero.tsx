@@ -55,7 +55,7 @@ export default function Hero() {
             color: "var(--text)",
           }}
         >
-          Stop problem drinking.<br />
+          Stop problem drinking<br />
           <em style={{ color: "var(--gold)", fontStyle: "italic" }}>in one session</em>
           <br />
           guaranteed!.

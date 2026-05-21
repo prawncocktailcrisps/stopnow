@@ -8,27 +8,27 @@ const faqs = [
   },
   {
     q: "How does the guarantee work?",
-    a: "If you finish the session still convinced you want to keep drinking, we refund you in full — no questions asked. We can't hold your hand forever, but we can permanently change what you believe about alcohol. The vast majority of clients leave as confident non-drinkers.",
+    a: "We guarantee that you will end the session as a confident non-drinker. You will see that drinking is a negative activity and understand that alcohol is detrimental to your health and wellbeing. We will explain how alcohol acts on the body to make you drink more. If you end the session convinced that you want to keep drinking alcohol then we will refund you in full.  We can't hold your hand for the rest of your life but we can change what you believe about alcohol.",
   },
   {
     q: "Why do I drink and how can Stop Now change that?",
-    a: "Drinking is culturally reinforced as positive — through social rituals, marketing, and media. Alcohol is also chemically addictive, causing increased consumption over time. Our session gives you the tools to understand exactly how the substance works on your body and mind, replacing the desire to drink with a genuine desire to avoid it.",
+    a: "Drinking alcohol is part of our culture and reinforced as a positive activity by drinkers. Marketing by the alcohol industry is aided by the media who repeat the myths that we need alcohol to celebrate, to socialise and to relax. Alcohol is addictive and becomes more addictive the more we drink. Our counselling session will allow you to understand how the substance causes us to drink more. As the session progresses you will find that the desire to drink will be replaced by the desire to avoid it.",
   },
   {
-    q: "What if I only want to cut down?",
-    a: "Because alcohol is an addictive substance, cutting down often leads to gradual escalation. Our session gives you the understanding and conviction to stop entirely — which turns out to be far easier than moderating once you see alcohol for what it really is.",
+    q: "What if I want to cut down?",
+    a: "Drinking less alcohol is a good thing but because it is an addictive drug that causes drinkers to drink more, many drinkers that have made the decision to cut down find that over time their drinking escalates. At Stop Now we equip our clients with the belief that alcohol is a harmful substance, essentially a poison. At the end of the session you will be a confident non-drinker, and of the opinion that cutting down is not an option. Abstaining from alcohol is easy when you see it as a negative activity.",
   },
   {
-    q: "Is there any follow-up after the session?",
-    a: "Yes — we email each client a written summary of the session with the key points as a lasting reminder. We also welcome messages if you'd like to share how things are going.",
+    q: "Is there a follow-up?",
+    a: "Once the session is over we email each client with a summary of the session including a reminder of the key points. Think of this as the unvarnished truth about alcohol. Most media commentary about alcohol is written by drinkers and promotes drinking. Our session, and our follow-up commentary is written by non-drinkers and will remind you why you shouldn't drink. Following the session we will ask you for feedback. We want each client to live a life free of alcohol, without difficulty. If you want to contact us to tell us how that's going please send us an email or a WhatsApp message.",
   },
   {
-    q: "I'm not in the UK — can I still book?",
-    a: "Absolutely. We work globally and accommodate most time zones. Message us on WhatsApp to arrange timing. Payment can be made in pounds, dollars or euros via PayPal.",
+    q: "What if I am not in the UK?",
+    a: "We work globally and can conduct sessions at most times of the day. Message us on WhatsApp to discuss timing. Our invoices can be paid in pounds, dollars or euros.",
   },
   {
     q: "How do I book?",
-    a: "Message us on WhatsApp at +44 7404 437994. We'll arrange a time that suits you, send an invoice via PayPal, and add a calendar entry. Sessions are conducted in English.",
+    a: "We use WhatsApp Business. Please message us on +44 7404 437994 and we will arrange a time to talk. Our sessions are conducted in English.",
   },
 ];
 

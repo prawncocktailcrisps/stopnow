@@ -55,10 +55,10 @@ export default function Hero() {
             color: "var(--text)",
           }}
         >
-          One session.<br />
-          <em style={{ color: "var(--gold)", fontStyle: "italic" }}>A lifetime</em>
+          We stop problem drinking.<br />
+          <em style={{ color: "var(--gold)", fontStyle: "italic" }}>in one session</em>
           <br />
-          free of alcohol.
+          guaranteed!.
         </h1>
         <p
           style={{

@@ -40,12 +40,11 @@ export default function Hero() {
           style={{
             fontSize: "0.72rem",
             letterSpacing: "0.18em",
-            textTransform: "uppercase",
             color: "var(--gold)",
             marginBottom: "1.5rem",
           }}
         >
-          Guaranteed alcohol counselling
+          A guaranteed service to stop problem drinking
         </p>
         <h1
           style={{

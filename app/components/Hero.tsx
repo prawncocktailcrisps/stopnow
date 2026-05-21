@@ -44,7 +44,7 @@ export default function Hero() {
             marginBottom: "1.5rem",
           }}
         >
-          The most effective method to get back control
+          The most effective method to regain control
         </p>
         <h1
           style={{

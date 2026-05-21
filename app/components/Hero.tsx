@@ -44,7 +44,7 @@ export default function Hero() {
             marginBottom: "1.5rem",
           }}
         >
-          The most effective method to stop problem drinking
+          The most effective method to get back control
         </p>
         <h1
           style={{
@@ -55,7 +55,7 @@ export default function Hero() {
             color: "var(--text)",
           }}
         >
-          We stop problem drinking.<br />
+          Stop problem drinking.<br />
           <em style={{ color: "var(--gold)", fontStyle: "italic" }}>in one session</em>
           <br />
           guaranteed!.

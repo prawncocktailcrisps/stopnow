@@ -58,7 +58,7 @@ export default function Hero() {
           Stop problem drinking<br />
           <em style={{ color: "var(--gold)", fontStyle: "italic" }}>in one session</em>
           <br />
-          guaranteed!.
+          guaranteed!
         </h1>
         <p
           style={{

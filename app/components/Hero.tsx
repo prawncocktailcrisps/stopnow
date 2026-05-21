@@ -126,19 +126,8 @@ export default function Hero() {
               textShadow: "0 2px 12px rgba(0,0,0,0.4)",
             }}
           >
-            "The session was a revelation. I haven't drunk alcohol since then, and I don't miss it at all!"
+            "The session was a revelation. I haven't drunk alcohol since then, and I don't miss it at all!" - Client
           </p>
-          <cite
-            style={{
-              fontSize: "0.75rem",
-              letterSpacing: "0.15em",
-              textTransform: "uppercase",
-              color: "rgba(255,255,255,0.6)",
-              fontStyle: "normal",
-            }}
-          >
-            — Client
-          </cite>
         </blockquote>
       </div>
     </section>

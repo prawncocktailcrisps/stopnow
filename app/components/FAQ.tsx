@@ -4,7 +4,7 @@ import { useState } from "react";
 const faqs = [
   {
     q: "What happens in a counselling session?",
-    a: "In a one-to-one video call, your counsellor will ask about your drinking habits and circumstances. They'll then explore the beliefs you hold about alcohol and work with you to change them. Sessions typically take a few hours with breaks. You're free to ask questions at any time, and everything is tailored to your specific situation.",
+    a: "In a one to one video call, our counsellor will ask you about your specific circumstances and your current drinking habits. The counsellor will then talk to you about the beliefs that you hold about alcohol, and work with you to change those beliefs. The session generally takes a few hours, with breaks. At the end of the session you will be confident to live your life without drinking. You are free throughout the session to ask questions and the session will be tailored to your personal circumstances. The session is by video call and we ask that you call from a location where you will be free of distractions, no family, no phones, no interruption.",
   },
   {
     q: "How does the guarantee work?",

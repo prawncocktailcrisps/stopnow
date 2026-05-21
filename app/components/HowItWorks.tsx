@@ -47,7 +47,7 @@ export default function HowItWorks() {
           marginBottom: "3.5rem",
         }}
       >
-        No willpower required. We change what you believe.
+        Change your beliefs. Find a new freedom. 
       </h2>
 
       <div

@@ -25,7 +25,7 @@ export default function Nav() {
           color: "var(--text)",
         }}
       >
-        Stop Now
+        Stop Now 07404 437994
       </div>
       <div style={{ display: "flex", gap: "0.75rem", alignItems: "center" }}>
         <a

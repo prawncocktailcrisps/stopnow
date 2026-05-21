@@ -44,7 +44,7 @@ export default function Hero() {
             marginBottom: "1.5rem",
           }}
         >
-          A guaranteed service to stop problem drinking
+          The most effective method to stop problem drinking
         </p>
         <h1
           style={{

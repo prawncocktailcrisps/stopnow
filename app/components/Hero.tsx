@@ -68,7 +68,7 @@ export default function Hero() {
             fontSize: "1rem",
           }}
         >
-          A half-day video counselling session that permanently changes your beliefs about alcohol. No willpower. No withdrawal. No going back.
+          Stop Now is a revolutionary new service. Our counselling session will allow you to stop drinking without difficulty - we work with you to change your beliefs about alcohol. This is a painless and easy way to be free of alcohol addiction, in one counselling session.
         </p>
         <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap", alignItems: "center" }}>
           <a
